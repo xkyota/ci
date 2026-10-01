@@ -1,0 +1,3 @@
+.github/workflows/ 
+.venv/ 
+__pycache__/ 
